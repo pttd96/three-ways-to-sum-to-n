@@ -27,4 +27,4 @@ Each approach is implemented as a TypeScript function and compared by running th
    npx ts-node index.ts
    ```
 
-This will print the results of all three approaches to the console.
+This will print the results of all three approaches to the console. Feel free to try out with different values for n in `console.log()`.
